@@ -1,5 +1,4 @@
 import random
-import os
 
 random_num = random.randint(1, 100)
 attempt = 0
